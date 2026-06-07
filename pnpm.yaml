@@ -1,8 +1,0 @@
-onlyBuiltDependencies:
-  - "@parcel/watcher"
-  - "@prisma/engines"
-  - "@swc/core"
-  - cypress
-  - esbuild
-  - prisma
-  - sharp
