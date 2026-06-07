@@ -158,4 +158,16 @@
     "typescript": "^5.9.3",
     "vitest": "^4.1.6"
   }
+"pnpm": {
+  "onlyBuiltDependencies": [
+    "@parcel/watcher",
+    "@prisma/engines",
+    "@swc/core",
+    "cypress",
+    "esbuild",
+    "prisma",
+    "sharp"
+  ]
+}
+  
 }
